@@ -1,2 +1,3 @@
 avansert program
-nå er dette editert
+nå er dette editert på github
+her er det endret mere lokalt
